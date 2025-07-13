@@ -37,9 +37,9 @@ const Header: React.FC<HeaderProps> = ({
               ${isDark ? 'bg-gradient-to-br from-blue-900 to-purple-900' : 'bg-gradient-to-br from-blue-100 to-purple-100'}
             `}>
               <img 
-                src="https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&w=64&h=64&fit=crop" 
+                src="companylogo1.png" 
                 alt="Averon Digital Logo" 
-                className="w-8 h-8 rounded-full object-cover"
+                className="w-11 h-10 rounded-full "
               />
             </div>
             <div>

@@ -152,7 +152,7 @@ const InvoicePreview: React.FC<InvoicePreviewProps> = ({ invoiceData, isDark, fo
           <div className="text-center mb-4">
             <div className="flex items-center justify-center space-x-2 mb-2">
               <img 
-                src="https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&w=32&h=32&fit=crop" 
+                src="companylogo1.png" 
                 alt="Logo" 
                 className="w-6 h-6 rounded-full"
               />
@@ -342,7 +342,7 @@ const InvoicePreview: React.FC<InvoicePreviewProps> = ({ invoiceData, isDark, fo
           <div className="w-full md:w-auto">
             <div className="flex items-center space-x-3 mb-3">
               <img 
-                src="https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&w=40&h=40&fit=crop" 
+                src="companylogo1.png" 
                 alt="Averon Digital Logo" 
                 className="w-8 h-8 sm:w-10 sm:h-10 rounded-full object-cover"
               />
