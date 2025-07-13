@@ -34,12 +34,12 @@ const Header: React.FC<HeaderProps> = ({
           <div className="flex flex-col sm:flex-row sm:items-center space-y-2 sm:space-y-0 sm:space-x-3 w-full sm:w-auto">
             <div className={`
               p-2 rounded-lg flex items-center justify-center self-start sm:self-auto
-              ${isDark ? 'bg-gradient-to-br from-blue-900 to-purple-900' : 'bg-gradient-to-br from-blue-100 to-purple-100'}
+              
             `}>
               <img 
                 src="companylogo1.png" 
                 alt="Averon Digital Logo" 
-                className="w-11 h-10 rounded-full "
+                className="w-17 h-16 rounded-full "
               />
             </div>
             <div>
